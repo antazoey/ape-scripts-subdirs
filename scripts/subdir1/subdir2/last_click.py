@@ -1,5 +1,5 @@
 import click
 
 @click.command()
-def top_click():
+def cli():
     click.echo("Last - CLICK")
